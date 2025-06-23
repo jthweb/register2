@@ -1,7 +1,7 @@
 [
     {  
         "subdomain": "ananda",  
-        "url":  "jthweb.github.io/ananda.is-amaz.ing",
+        "url":  "https://jthweb.github.io/ananda.is-amaz.ing",
         "email": "jthweb@duck.com",
         "type": "CNAME"
     }
